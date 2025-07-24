@@ -1,0 +1,27 @@
+#objetivo{background-color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#titulo1{
+    background-color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+#titulo2{
+    background-color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+#titulo3{
+    background-color: darkslategray;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.regla{
+    display: inline-block;
+    width: 30%;
+    height: 20%;
+}
+body{
+    background-color: aquamarine;
+}
